@@ -1,0 +1,20 @@
+{
+  "name": "react-native-integralmedica-plug-pag-service",
+  "version": "1.0.0",
+  "description": "Integralmedica - Plug-Pag-Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/werikesantos/react-native-integralmedica-plug-pag-service.git"
+  },
+  "keywords": [],
+  "author": "werikesantos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/werikesantos/react-native-integralmedica-plug-pag-service/issues"
+  },
+  "homepage": "https://github.com/werikesantos/react-native-integralmedica-plug-pag-service#readme"
+}
